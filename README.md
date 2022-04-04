@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grayWolfGameingNo2
 - 👀 I’m interested in codeing,computer software/hardware, Modding(gameing), etc.
-- 🌱 I’m currently learning JavaScript, HTML, Python
+- 🌱 I’m currently learning JavaScript, HTML, Python, c, c++, c#
 - 💞️ I’m looking to collaborate on {null}
 - 📫 How to reach me "graywolfgameingno2@gmail.com"
 
